@@ -1,2 +1,2 @@
 # vista-data
-vista map data
+This repository contains data for the vista map that was inherited from SWignall.
